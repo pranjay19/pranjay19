@@ -81,14 +81,9 @@ Incoming Master of Data Science Student at RMIT University | Ex-Product Manager 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjay19&show_icons=true&locale=en" alt="pranjay19" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjay19&" alt="pranjay19" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjay19&show_icons=true&locale=en&layout=compact" alt="pranjay19" />
-</p>
+
