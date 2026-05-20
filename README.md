@@ -72,7 +72,7 @@ Incoming Master of Data Science Student at RMIT University | Ex-Product Manager 
 ## 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/pranjay19
-- Portfolio: https://product-pulse-xo0pec.myurl.live/
+- Portfolio: https://pranjay-portfolio-20th-may-2026.vercel.app/
 - Medium: https://medium.com/@pranjayguleria
 - LeetCode: https://leetcode.com/pranjay19
 - Email: pranjayguleria@gmail.com
